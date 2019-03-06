@@ -13,7 +13,7 @@ This program analyzes the data in several tables within the newsdata file to ans
 7) Explore data **(\dt, \dtable, and select)**
 
 ### Execute Program
-run backendvfinal.py
+runprogram backendvfinal.py
 
 
 
