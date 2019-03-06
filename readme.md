@@ -10,10 +10,10 @@ This program analyzes the data in several tables within the newsdata file to ans
 4) Download the file newsdata.sql and unzip "_https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip_"
 5) Load data cd into vagrant directory and use the command **psql-d news -f newdata.sql**
 6) Connect to the database via **psql -d news**
-7) Explore data **(\dt, \dtable, and select)**
+7) Explore data _**(\dt, \dtable, and select)**_
 
 ### Execute Program
-runprogram backendvfinal.py
+run program _backendvfinal.py_
 
 
 
